@@ -47,6 +47,8 @@ admin.site.register( Bank_Loan,Bank_LoanAdmin)
 ```
 # OUTPUT
 ![Screenshot (13)](https://github.com/user-attachments/assets/963e637e-62d7-4076-8386-53b9acbaf724)
+![WhatsApp Image 2024-12-05 at 21 22 48_17656ef3](https://github.com/user-attachments/assets/b5aecca1-cd86-4461-afc5-99aea77aca32)
+
 
 
 # RESULT
