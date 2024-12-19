@@ -48,6 +48,8 @@ admin.site.register( Bank_Loan,Bank_LoanAdmin)
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/62996484-61ae-4cdf-8e15-e1e8019b4ddd)
 ![WhatsApp Image 2024-12-05 at 21 22 48_17656ef3](https://github.com/user-attachments/assets/566e0e35-bc9b-471b-b5c0-57e310b5f977)
+![WhatsApp Image 2024-12-19 at 14 15 00_07bbdb52](https://github.com/user-attachments/assets/8e64ff5b-d2f2-4661-9be6-d2e8bdc04812)
+
 
 
 
